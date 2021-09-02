@@ -1,10 +1,8 @@
 # Aimileus Uva
 
-## How do I install these formulae?
+## How do I install these packages?
 
-`brew install aimileus/uva/<formula>`
-
-Or `brew tap aimileus/uva` and then `brew install <formula>`.
+- SIMPL: `brew install --no-quarantine aimileus/uva/simpl`
 
 ## Documentation
 
