@@ -2,7 +2,7 @@
 
 ## How do I install these packages?
 
-- SIMPL: `brew install aimileus/uva/simpl`
+- SIMPL: `brew install --no-quarantine aimileus/uva/simpl`
 
 ## Documentation
 
