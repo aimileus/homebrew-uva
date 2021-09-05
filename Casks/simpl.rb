@@ -1,6 +1,6 @@
 cask "simpl" do
-  version "2.3.2-1"
-  sha256 "a8cbe5dd204ab9874726944c9eb6119fe4883a0e1f272d8de77039983e72dbe9"
+  version "2.3.2-2"
+  sha256 "cf575aae095f185a913b0409b789dc0b9aea289d815aa89d096b253bc01ff638"
 
   url "https://github.com/aimileus/simpl/releases/download/v#{version}/SIMPL-#{version}.zip"
   name "SIMPL"
